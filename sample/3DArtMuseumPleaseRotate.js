@@ -11,7 +11,7 @@ var options =
     onHide: function(){},
     onShow: function(){},
     forcePortrait: false,
-    message: "POR FAVOR, ROTE SU DISPOSITIVO",
+    message: "Please Rotate and see in Landscape mode",
     subMessage: "",
     allowClickBypass: false,
     onlyMobile: true,
